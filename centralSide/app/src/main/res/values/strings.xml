@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">centralSide</string>
+    <string name="xText">X Value (degree)</string>
+    <string name="pressText">Pressure Value</string>
+    <string name="zText">Z Value (degree)</string>
+    <string name="discBtnText">CALCULATE</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="lattitude">LATTITUDE</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="horizontal">HORIZONTAL</string>
+    <string name="vertical">VERTICAL</string>
+    <string name="url">please insert url</string>
+</resources>

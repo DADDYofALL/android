@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">new_01</string>
+    <string name="advBtn">Advertise</string>
+    <string name="DiscBtn">Discover</string>
+    <string name="ble_uuid">00001802-0000-1000-8000-00805f9b34fb</string>
+    <string name="service_uuid">795090c7-420d-4048-a24e-18e60180e23c</string>
+    <string name="charCount_uuid">31517c58-66bf-470c-b662-e352a6c80cba</string>
+    <string name="charInt_uuid">0b89d2d4-0ea6-4141-86bb-0c5fb91ab14a</string>
+    <string name="desc_uuid">00002902-0000-1000-8000-00805f9b34fb</string>
+    <string name="pressText">Pressure</string>
+    <string name="rotateText">Rotate</string>
+    <string name="orientText">Orient</string>
+    <string name="status_errorWhenConnecting">status_errorWhenConnecting</string>
+    <string name="status_devicesConnected">Device Connected :</string>
+</resources>
